@@ -1,1 +1,43 @@
-﻿
+﻿[{
+	"State Option 1": "Kentucky",
+	"Activities For KY": [{
+			"Name": "Hiking at Red River Gorge"
+		},
+		{
+			"Name": "Mammoth Cave"
+		},
+		{
+			"Name": "Churchill Downs"
+		},
+		{
+			"Name": "Louisville Slugger Museum"
+		},
+		{
+			"Name": "Speed Art Museum"
+		},
+		{
+			"Name": "Bourbon Tour"
+		}
+	],
+	"State Option 2": "Florida",
+	"Activities for FL": [{
+			"Name": "Everglades National Park"
+		},
+		{
+			"Name": "Snorkel at Dry Tortugas"
+		},
+		{
+			"Name": "Disney World"
+		},
+		{
+			"Name": "The Dali Museum"
+		},
+		{
+			"Name": "NASA Kennedy Space Center"
+		},
+		{
+			"Name": "Orlando Science Center"
+		}
+	]
+
+}]
